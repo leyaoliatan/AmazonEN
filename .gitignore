@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Don't ignore Amazon_US directory
+!Amazon_US/
+!Amazon_US/**
+
+# Don't ignore .gitignore
+!.gitignore
