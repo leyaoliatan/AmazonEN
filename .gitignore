@@ -1,4 +1,5 @@
-# # Ignore everything
+# # Ignore
+data/*.json
 
 
 # # Don't ignore Amazon_US directory
